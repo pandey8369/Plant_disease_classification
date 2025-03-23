@@ -1,3 +1,5 @@
+![Alt Text](models/Screenshot.png)
+
 
 # Getting Started with Create React App
 
